@@ -10,8 +10,19 @@
     "compile": "gulp --gulpfile tools/gulpfile.babel.js compile",
     "prepublish": "npm run compile"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mg/react-pushpop"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "bugs": {
+    "url": "https://github.com/mg/react-pushpop/issues"
+  },
+  "homepage": "https://github.com/mg/react-pushpop",
   "author": "Magnús Örn Gylfason (magnus.gylfason@gmail.com / https://github.com/mg / https://twitter.com/@mg0rn)",
-  "license": "",
+  "license": "MIT",
   "devDependencies": {
     "babel": "^5.8.23",
     "babel-core": "^5.8.25",
