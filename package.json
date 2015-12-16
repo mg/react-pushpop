@@ -1,6 +1,6 @@
 {
   "name": "react-pushpop",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Push to context, pop from context",
   "main": "lib/index.js",
   "scripts": {
