@@ -1,5 +1,6 @@
 # react-pushpop
 [![Build Status](https://travis-ci.org/mg/react-pushpop.svg)](https://travis-ci.org/mg/react-pushpop)
+[![npm version](https://badge.fury.io/js/react-pushpop.svg)](https://badge.fury.io/js/react-pushpop)
 
 Push a property to context, pop from context into a property. The idea is to remove the burden of learning React context's (as light as it is) in favor of using the more visible and better understood properties.
 
